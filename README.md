@@ -18,6 +18,6 @@ https://gustavo-cavasotto.github.io/Login-screen-dark/
 
 Feito com ❤️ por Gustavo Cavasotto 👋🏽 Entre em contato!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-potrich-964829217/)](https://www.linkedin.com/in/gustavo-potrich-964829217/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-potrich-964829217/)](https://www.linkedin.com/in/gustavo-potrich-964829217/) 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
   
