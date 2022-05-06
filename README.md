@@ -10,8 +10,8 @@ https://gustavo-cavasotto.github.io/Login-screen-dark/
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+<a href="https://www.linkedin.com/in/gustavo-potrich-964829217/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQH3HxlA88UNCA/profile-displayphoto-shrink_400_400/0/1641844997760?e=1657152000&v=beta&t=Ld0JNBAZGLkqhyG_DZo6_jUkxDXrPZe3FpPAjsemew8" width="100px;" alt=""/>
  <br />
  <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
