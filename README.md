@@ -6,5 +6,5 @@ https://gustavo-cavasotto.github.io/Login-screen-dark/
 
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/img/logindark.png"/>
+  <img src="assets/img/logindark.png" alt="Login_dark">
 </h1>
