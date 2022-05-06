@@ -5,7 +5,7 @@ Landing page criada utilizando HTML, CSS. Totalmente responsivo
 https://gustavo-cavasotto.github.io/Login-screen-dark/
 
 
-  <img src="assets/img/logindark.png" alt="Login_dark">
+  <img src="./assets/img/logindark.png">
 
 ### Autor
 ---
